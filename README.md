@@ -1,5 +1,9 @@
 # Vehicle Sales and Workshop Management System
 
+## Demo Video
+Watch the system demo here:
+https://www.facebook.com/share/v/1BLyZPwRb1/
+
 ## Description
 This project is a full-stack Vehicle Sales and Workshop Management System designed to help businesses manage vehicle sales, inventory, workshop repairs, invoices, and customer data.
 
@@ -18,22 +22,22 @@ The system includes:
 
 ## Technologies Used
 - Flutter (Desktop Application)
-- PHP (Backend)
+- PHP (Backend API)
 - MySQL (Database)
 - HTML / CSS (Frontend)
 
 ## System Architecture
-The system is divided into three parts:
-1. Customer Web Platform
-2. Admin Desktop Application
-3. PHP API (Backend)
-4. MySQL Database
+The system is divided into four parts:
+1. Customer Web Platform (HTML, CSS)
+2. Admin Desktop Application (Flutter)
+3. Backend API (PHP)
+4. Database (MySQL)
 
 ## Project Status
-Work in Progress – Currently developing and adding new features.
+Work in Progress – Currently developing and adding new features and improvements.
 
 ## Author
-Walid ibidra
+**Walid Ibidar**
 
 ## Note
-Source code is private. This repository is for project presentation purposes only.
+Source code is private. This repository is for project presentation and documentation purposes only.
